@@ -40,9 +40,9 @@ every pull request before it merges (P4). Intent questions go to the founder (P5
 - **Facts on the page come from the projects' own READMEs and records,** with
   their state as those give it. Involute is described only by its public facts
   until 2027-01-20 (the competition's rule against private sharing of code).
-- **Personal data:** the founder's first name, own account names and email
-  address may appear (the founder's decisions of 2026-11-27); the last name stays
-  out until the founder says so.
+- **Personal data:** the founder's own information (his name, both email
+  addresses, his account names) is public by his choice (the handbook's decision
+  0010, 2026-11-27). Everyone else's stays out.
 - **Pronouns:** the founder uses he/him (the founder, 2026-11-27).
 
 ## Always
