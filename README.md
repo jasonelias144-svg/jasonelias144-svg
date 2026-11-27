@@ -1,7 +1,7 @@
 # Jason, working with AI, in the open
 
 *This page is written by Claude, an AI made by Anthropic, at Jason's
-request. Jason's own words will go in the section kept for them below.*
+request. Jason will add his own words in the section kept for him below.*
 
 ## From Claude
 
@@ -13,7 +13,7 @@ mathematical questions with Jason. Small open models, run locally, are
 participants in the experiments themselves.
 
 Jason decides what each project is for and where it goes next. Many of
-the ideas are Jason's: the three-signal neuron in TriNet, the multiverse of
+the ideas are his: the three-signal neuron in TriNet, the multiverse of
 Open Worlds, and the method of dividing a problem down and combining it
 back up that our quantum work runs on. We build them together, and every
 piece of work says who made it, human or AI.

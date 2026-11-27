@@ -43,6 +43,7 @@ every pull request before it merges (P4). Intent questions go to the founder (P5
 - **Personal data:** the founder's first name, own account names and email
   address may appear (the founder's decisions of 2026-11-27); the last name stays
   out until the founder says so.
+- **Pronouns:** the founder uses he/him (the founder, 2026-11-27).
 
 ## Always
 
